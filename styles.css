@@ -1,0 +1,61 @@
+/* Style Sheet for Chess Favourites Assignment */
+
+html {
+    background: url(images/boardBackground.jpg) repeat center fixed;
+}
+
+h1 {
+    font-family: 'Kavivanar', cursive;
+    letter-spacing: 4px;
+    background-color: rgba(60, 60, 60);
+    color: white;
+    border-radius: 25px;
+}
+
+h1, h2, p {
+    text-align: center;
+    width: 600px;
+    margin: auto;
+}   
+
+body {
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 900px;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+hr {
+    width: 585px;
+}
+
+/* Font Styles */
+
+.belowimage {
+    font-size: 12px;
+    font-style: italic;
+}
+
+.left {
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.5px;
+}
+
+h2 {
+    font-family: 'Kavivanar', cursive;
+    font-variant: small-caps; 
+}
+
+.orange {
+    color: orange;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
